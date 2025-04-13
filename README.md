@@ -1,6 +1,6 @@
-# Project info
+# GIFNOIR
 
-**URL**: [https://lovable.dev/projects/0d1f9abb-2b16-4473-ab04-8084b6265f47](https://gifnoir.vercel.app/)
+**URL**: [[https://lovable.dev/projects/0d1f9abb-2b16-4473-ab04-8084b6265f47](https://gifnoir.vercel.app/)](https://gifnoir.vercel.app/)
 
 ## Why this
 
