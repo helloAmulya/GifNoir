@@ -17,7 +17,7 @@ const RandomGifs = () => {
     refetch,
   } = useQuery({
     queryKey: ["randomGifs"],
-    queryFn: () => getRandomGifs(16),
+    queryFn: () => getRandomGifs(15),
   });
 
   
@@ -59,7 +59,7 @@ const RandomGifs = () => {
           </Button>
         </div>
       ) : (
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
+        <div className="grid grid-cols-2 md:grid-cols-5 gap-6">
           {gifs?.map((gif) => (
             <GifCard key={gif.id} gif={gif} />
           ))}
